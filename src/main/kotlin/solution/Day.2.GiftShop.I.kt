@@ -2,7 +2,7 @@ package solution
 
 import inputs
 
-//https://adventofcode.com/2025/day/2
+// https://adventofcode.com/2025/day/2
 fun main() {
     inputs("Day.2.GiftShop").first().split(",")
         .map {
